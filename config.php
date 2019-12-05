@@ -3,7 +3,7 @@
 if ($_SERVER['HTTP_HOST'] !== 'localhost') {
 define('DB_SERVER', '127.0.0.1');
 define('DB_USERNAME', 'c3645Mick');
-define('DB_PASSWORD', '10jojo10');
+define('DB_PASSWORD', 'testWW');
 define('DB_NAME', 'c3645magram');
 } else {
 define('DB_SERVER', 'localhost');

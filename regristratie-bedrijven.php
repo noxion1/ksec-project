@@ -3,7 +3,7 @@
 <html>
 <head>
   <title>regristartie Bedrijven</title>
-  <link rel="stylesheet" type="text/css" href="loginStyle.css">
+  <link rel="stylesheet" href="Style.css">
 </head>
 <body>
   <div class="header">
