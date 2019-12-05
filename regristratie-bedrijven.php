@@ -3,7 +3,7 @@
 <html>
 <head>
   <title>regristartie Bedrijven</title>
-  <link rel="stylesheet" href="Style.css">
+  <link rel="stylesheet" type="text/css" href="loginStyle.css">
 </head>
 <body>
   <div class="header">
@@ -16,21 +16,21 @@
   	<?php include('errors.php'); ?>
   	<div class="input-group">
   	  <label>Naam Bedrijf</label>
-  	  <input type="text" name="bedrijf-naam" value="<?php echo $naamBedrijf; ?>">
+  	  <input type="text" name="naamBedrijf" value="<?php echo $naamBedrijf; ?>">
   	</div>
 
     <!-- Naam bedrijfs baas -->
 
     <div class="input-group">
   	  <label>Naam Baas van Bedrijf</label>
-  	  <input type="text" name="bedrijf-naam-baas" value="<?php echo $naamBaas; ?>">
+  	  <input type="text" name="naamBaas" value="<?php echo $naamBaas; ?>">
   	</div>
 
     <!-- Email bedrijf -->
 
   	<div class="input-group">
   	  <label>Email Bedrijf</label>
-  	  <input type="email" name="bedrijf-email" value="<?php echo $email; ?>">
+  	  <input type="email" name="bedrijfEmail" value="<?php echo $bedrijfEmail; ?>">
   	</div>
 
 
@@ -39,12 +39,12 @@
 
     <div class="input-group">
   	  <label>Email Baas</label>
-  	  <input type="email" name="bedrijf-email-baas_1" value="<?php echo $email; ?>">
+  	  <input type="email" name="email" value="<?php echo $email; ?>">
   	</div>
 
     <div class="input-group">
   	  <label>Herhaal Email Baas</label>
-  	  <input type="email" name="bedrijf-email-baas_2">
+  	  <input type="email" name="email" value="<?php echo $email; ?>">
   	</div>
 
     <!-- Wachtwoord bedrijf -->

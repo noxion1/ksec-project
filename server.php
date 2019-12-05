@@ -2,8 +2,10 @@
 session_start();
 
 // initializing variables
-$username = "";
-$email    = "";
+$naamBedrijf = "";
+$naamBaas= "";
+$email="";
+$bedrijfEmail = "";
 $errors = array();
 
 // connect to the database
@@ -13,8 +15,10 @@ include 'config.php';
 if (isset($_POST['reg_user'])) {
   // receive all input values from the form
 
-  
-  $username = 'DB_NAME' . $_POST['username'];
+
+  $naamBedrijf = 'DB_NAME' . $_POST['naamBedrijf'];
+  $naamBaas = 'DB_NAME' . $_POST['naamBaas'];
+  $bedrijfEmail = 'DB_NAME' . $_POST['bedrijfEmail'];
   $email = 'DB_NAME' . $_POST['email'];
   $password_1 = 'DB_NAME' . $_POST['password_1'];
   $password_2 = 'DB_NAME' . $_POST['password_2'];
