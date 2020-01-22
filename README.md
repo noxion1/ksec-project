@@ -1,4 +1,4 @@
-# ksec-project
+# SnelleChaps
 
 Project voor het vak k-sec.
 -
