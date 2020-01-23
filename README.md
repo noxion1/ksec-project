@@ -28,8 +28,9 @@ Planning groep voor de komende week:
 
 Silvain:
 Begin ontwerpen style en kleuren schema en begin wireframe design.
-Mick en Leander:
-Log-in scherm beginnen.
+
+Mick en Leander: Log-in scherm beginnen.
+
 Mack: Planning en rolverdeling.
 
 Welke user cases gaan we uitwerken (individueel)
