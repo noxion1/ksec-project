@@ -13,21 +13,36 @@ Gemaakt door: Mack Geels, Silvain Wolfrat, Mick Bosman en Leander Kuiper
 
 ---
 K-SEC fase1 planning:
+
 Samenstelling groep:
+
 •	Flint naafs
+
 •	Leander kuiper
+
 •	Mick Bosman
+
 •	Silvain Wolfrat
+
 •	Mack Geels
+
 Planning groep voor de komende week:
-Flint en Silvain: Begin ontwerpen style en kleuren schema en begin wireframe design.
-Mick en Leander: Log-in scherm beginnen.
+
+Flint en Silvain:
+Begin ontwerpen style en kleuren schema en begin wireframe design.
+Mick en Leander:
+Log-in scherm beginnen.
 Mack: Planning en rolverdeling.
+
 Welke user cases gaan we uitwerken (individueel)
 Mick: Log-in.
+
 Leander: Account aanmaken.
+
 Flint en Silvain: Advertentie van restaurant of bezorger.
+
 Mack: Klant bestel informatie van de advertentie.
+
 Storyboard:
 Iedereen samen. (wordt volgende week uitgelegd)
 
