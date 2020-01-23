@@ -16,8 +16,6 @@ K-SEC fase1 planning:
 
 Samenstelling groep:
 
-•	F̶l̶i̶n̶t̶ ̶n̶a̶a̶f̶s̶
-
 •	Leander kuiper
 
 •	Mick Bosman
@@ -28,7 +26,7 @@ Samenstelling groep:
 
 Planning groep voor de komende week:
 
-F̶l̶i̶n̶t̶ en Silvain:
+Silvain:
 Begin ontwerpen style en kleuren schema en begin wireframe design.
 Mick en Leander:
 Log-in scherm beginnen.
