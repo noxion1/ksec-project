@@ -1,0 +1,26 @@
+body {
+  background-color: #F88020;
+}
+
+.logo img {
+  width: 217px;
+  height: 198px;
+  margin-top: 50px;
+  margin-left: 67px;
+}
+
+input[type=login_1], [type=login_2] {
+  width: 80%;
+  padding: 12px;
+  margin: 10px 40px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  height: 5.5em;
+  margin-top: 2.5em;
+  text-align: center;
+}
+
+.contact {
+  margin-top: 5.5em;
+}
