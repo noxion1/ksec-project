@@ -1,0 +1,119 @@
+body {
+  background-color: #FFF4E4;
+  margin: 0;
+}
+
+
+
+
+
+
+
+input[type=text]{
+  width: 100%;
+  padding: 30px 60px;
+  margin: 15px 40px;
+  display: inline-block;
+  border: 1px solid #3D0E1E;
+  box-sizing: border-box;
+  font-size: 60px;
+  margin-top: 60%;
+  margin-left: 80px;
+  }
+   input[type=password] {
+  width: 100%;
+  padding: 30px 60px;
+  margin: 15px 40px;
+  display: inline-block;
+  border: 1px solid #3D0E1E;
+  box-sizing: border-box;
+  font-size: 60px;
+  margin-left: 80px;
+
+}
+
+button {
+  background-color: #F88020;
+  color: Black;
+  padding: 15px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  font-size: 60px;
+  border: 1px solid #3D0E1E;
+  margin-left: 80px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+.container {
+  padding: 100px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+
+.userholder{
+  border-radius: 0px;
+  max-width: 80%;
+  text-align: center;
+}
+
+.userholder2{
+  border-radius: 0px;
+  max-width: 80%;
+  text-align: center;
+}
+
+.paswholder{
+  border-radius: 0px;
+  max-width: 80%;
+  text-align: center;
+}
+
+.loginbutton{
+  border-radius: 0px;
+  max-width: 80%;
+  margin-top: 60px;
+}
+
+.Terug{
+  border-radius: 0px;
+  max-width: 80%;
+  margin-top: 200px;
+}
+
+
+.naam__bedrijf{
+  height: 73px;
+  margin-top: 40px;
+  margin-left: 290px;
+  font-size: 80px;
+}
+
+.header {
+  height: 180px;
+  width: 100%;
+  background: #F88020;
+  float: left;
+  position: sticky;
+  top: 0;
+
+}
