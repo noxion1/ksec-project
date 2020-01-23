@@ -16,7 +16,7 @@ K-SEC fase1 planning:
 
 Samenstelling groep:
 
-•	Flint naafs
+•	F̶l̶i̶n̶t̶ ̶n̶a̶a̶f̶s̶
 
 •	Leander kuiper
 
@@ -28,7 +28,7 @@ Samenstelling groep:
 
 Planning groep voor de komende week:
 
-Flint en Silvain:
+F̶l̶i̶n̶t̶ en Silvain:
 Begin ontwerpen style en kleuren schema en begin wireframe design.
 Mick en Leander:
 Log-in scherm beginnen.
@@ -39,7 +39,7 @@ Mick: Log-in.
 
 Leander: Account aanmaken.
 
-Flint en Silvain: Advertentie van restaurant of bezorger.
+F̶l̶i̶n̶t̶ en Silvain: Advertentie van restaurant of bezorger.
 
 Mack: Klant bestel informatie van de advertentie.
 
