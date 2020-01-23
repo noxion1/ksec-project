@@ -37,7 +37,7 @@ Mick: Log-in.
 
 Leander: Account aanmaken.
 
-F̶l̶i̶n̶t̶ en Silvain: Advertentie van restaurant of bezorger.
+Silvain: Advertentie van restaurant of bezorger.
 
 Mack: Klant bestel informatie van de advertentie.
 
