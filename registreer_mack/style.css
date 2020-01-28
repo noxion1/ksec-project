@@ -3,6 +3,16 @@ body{
   margin: 0;
 }
 
+.header{
+  border: 2px solid black;
+  height: 180px;
+  width: 100%;
+  background: #F88020;
+  float: left;
+  position: sticky;
+  top: 0;
+}
+
 .naam__bedrijf{
   height: 73px;
   margin-top: 40px;
@@ -10,15 +20,6 @@ body{
   font-size: 80px;
 }
 
-#page-nav {
-  height: 180px;
-  width: 100%;
-  background: #F88020;
-  float: left;
-  position: sticky;
-  top: 0;
-
-}
 
 .reg_with{
   background-image: url(img/icon3.png);
