@@ -3,14 +3,10 @@ body{
   margin: 0;
 }
 
-.header {
-  position: fixed;
-}
-
 .naam__bedrijf{
   height: 73px;
   margin-top: 40px;
-  margin-left: 270px;
+  margin-left: 290px;
   font-size: 80px;
 }
 
@@ -21,26 +17,109 @@ body{
   float: left;
   position: sticky;
   top: 0;
+
 }
 
-button {
+.inlog_with{
+  background-image: url(../img/icon3.png);
+  background-repeat: no-repeat;
+   background-position: 120px 15px;
   background-color: white;
-  width: 65%;
-  margin: 50px 160px;
-  display: inline-block;
-  border: 1px solid #ccc;
-  box-sizing: border-box;
-  height: 3em;
-  margin-top: 0.1em;
-  text-align: center;
-  font-size: 40px;
+ width: 60%;
+ padding: 12px;
+ margin: 10px 200px;
+ display: inline-block;
+ border: 1px solid black;
+ box-sizing: border-box;
+ height: 4em;
+ margin-top: 3.5em;
+ text-align: center;
+  font-size: 20px;
 }
 
-button a {
-  text-decoration: none;
-  color: black;
+.inlog_with2{
+  background-image: url(../img/icon4.png);
+  background-repeat: no-repeat;
+   background-position: 120px 15px;
+  background-color: white;
+ width: 60%;
+ padding: 12px;
+ margin: 10px 200px;
+ display: inline-block;
+ border: 1px solid black;
+ box-sizing: border-box;
+ height: 4em;
+ margin-top: 3.5em;
+ text-align: center;
+ font-size: 20px;
 }
 
-.buttons_1 {
-  margin-top: 10em;
+.e-mail{
+  background-color: white;
+ width: 60%;
+ padding: 12px;
+ margin: 10px 200px;
+ display: inline-block;
+ border: 1px solid black;
+ box-sizing: border-box;
+ height: 4em;
+ margin-top: 12em;
+ text-align: center;
+ font-size: 20px;
+}
+
+.ww{
+  background-color: white;
+ width: 60%;
+ padding: 12px;
+ margin: 10px 200px;
+ display: inline-block;
+ border: 1px solid black;
+ box-sizing: border-box;
+ height: 4em;
+ margin-top: 3.5em;
+ text-align: center;
+ font-size: 20px;
+}
+
+.login{
+  background-color:  #F88020;
+ width: 60%;
+ padding: 12px;
+ margin: 10px 200px;
+ display: inline-block;
+ border: 1px solid black;
+ box-sizing: border-box;
+ height: 4em;
+ margin-top: 7em;
+ text-align: center;
+ font-size: 20px;
+}
+
+.signup{
+  background-color:  #F88020;
+ width: 60%;
+ padding: 12px;
+ margin: 10px 200px;
+ display: inline-block;
+ border: 1px solid black;
+ box-sizing: border-box;
+ height: 4em;
+ margin-top: 20em;
+ text-align: center;
+ font-size: 20px;
+}
+
+.terug{
+  background-color:  #F88020;
+ width: 60%;
+ padding: 12px;
+ margin: 10px 200px;
+ display: inline-block;
+ border: 1px solid black;
+ box-sizing: border-box;
+ height: 4em;
+ margin-top: 3.5em;
+ text-align: center;
+ font-size: 20px;
 }
