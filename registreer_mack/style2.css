@@ -162,7 +162,7 @@ body{
   color: black;
   padding: 35px 20px;
   margin: 8px 0;
-  margin-top: 200px;
+  margin-top: 150px;
   margin-left: 200px;
   border: 2px solid black;
   cursor: pointer;
@@ -189,7 +189,8 @@ body{
   padding: 40px;
   text-align: center;
   margin: 5px 0 22px 0;
-  margin-left: 250px;
+  margin-left: 210px;
+  margin-top: 50px;
   display: inline-block;
   border: 1px solid black;
   background: white;
@@ -201,7 +202,7 @@ body{
   padding: 40px;
   text-align: center;
   margin: 5px 0 22px 0;
-  margin-left: 250px;
+  margin-left: 210px;
   display: inline-block;
   border: 1px solid black;
   background: white;
