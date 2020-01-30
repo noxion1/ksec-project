@@ -6,8 +6,9 @@ Gemaakt door: Mack Geels, Silvain Wolfrat, Mick Bosman en Leander Kuiper
 -
 
 Informatie Online versie:
-
+-
 De online versie is niet compleet. Je kan niks invullen in de <input> fields want deze werken niet. Klik op de inlog button zonder iets in te vullen om door te gaan naar de volgende pagina.
+
 -
 
 - Link naar online versie: http://25607.hosts2.ma-cloud.nl/bewijzenmap/md2/k-sec/ksec-project/inlog_mick/inlog.html
