@@ -14,6 +14,7 @@ De online versie is niet compleet. Je kan niks invullen in de <input> fields wan
 - Link naar online versie: http://25607.hosts2.ma-cloud.nl/bewijzenmap/md2/k-sec/ksec-project/inlog_mick/inlog.html
 - Link naar ontwerp: https://xd.adobe.com/view/f5e4ee5c-3164-4c37-77e3-02111d321611-83d5/
 - Link naar use cases: https://github.com/noxion1/ksec-project/blob/master/usecases-ksec.asd.docx
+- Link naar thread model:
 - Link naar use cases diagram: https://xd.adobe.com/view/b27e2b6e-85ba-40f8-43bb-94c0c2020af5-c44f/
 
 
