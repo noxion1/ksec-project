@@ -19,7 +19,7 @@ De online versie is niet compleet. Je kan niks invullen in de <input> fields wan
 
 
 ---
-K-SEC fase 1 planning:
+K-SEC Project
 
 Samenstelling groep:
 
@@ -31,7 +31,8 @@ Samenstelling groep:
 
 •	Mack Geels
 
-Planning groep voor de komende week:
+---
+K-SEC fase 1 planning:
 
 Silvain:
 Begin ontwerpen style en kleuren schema en begin wireframe design.
@@ -48,10 +49,44 @@ Iedereen: Storyboard samen maken. (wordt volgende week uitgelegd)
 ---
 K-SEC fase 2 planning:
 
-Silvain:
+Silvain: Afronden Wireframe design.
+
+Mick: Inlog voor clienten proberen te maken met mysql/ database in php.
+
+Mack: Was niet aanwezig tijdens de les.
+
+Leander: Inlog voor bedrijven proberen te maken met mysql/ database in php.
+
+Iedereen: Feedback geven aan elkaar.
 
 
+---
+K-SEC fase 3 planning:
+
+Silvain: Maken test planning.
+
+Mick: Maken test planning.
+
+Mack: Maken test planning.
+
+Leander: Maken test planning.
+
+Iedereen: Maken test planning.
 
 
+---
+K-SEC fase 4 planning:
+
+Silvain: Coderen van het wachtwoord vergeten pagina voor clienten en bedrijven.
+
+Mick: Coderen van het begin scherm, Inlog client en bedrijf.
+
+Mack: Coderen van het regristreren voor bedrijven en clienten.
+
+Leander: Coderen van de homepage.
+
+Iedereen: Feedback geven aan elkaar.
+
+---
 
 
