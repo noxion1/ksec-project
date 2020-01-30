@@ -10,7 +10,6 @@ Informatie Online versie:
 De website is gemaakt voor de Iphone X, de website is niet responsive en werkt dus niet op anderen toesten of resoluties.
 De online versie is niet compleet. Je kan niks invullen in de <input> fields want deze werken niet. Klik op de inlog button zonder iets in te vullen om door te gaan naar de volgende pagina.
 
--
 
 - Link naar online versie: http://25607.hosts2.ma-cloud.nl/bewijzenmap/md2/k-sec/ksec-project/inlog_mick/inlog.html
 - Link naar ontwerp: https://xd.adobe.com/view/f5e4ee5c-3164-4c37-77e3-02111d321611-83d5/
