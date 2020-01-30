@@ -7,7 +7,7 @@ Gemaakt door: Mack Geels, Silvain Wolfrat, Mick Bosman en Leander Kuiper
 
 Informatie Online versie:
 -
-De website is gemaakt voor de Iphone X, de website is niet responsive en werkt dus niet op anderen toesten of resoluties.
+De website is gemaakt voor de Iphone X, de website is niet responsive en werkt dus niet op anderen toestellen of resoluties.
 De online versie is niet compleet. Je kan niks invullen in de <input> fields want deze werken niet. Klik op de inlog button zonder iets in te vullen om door te gaan naar de volgende pagina.
 
 
