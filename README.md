@@ -7,6 +7,7 @@ Gemaakt door: Mack Geels, Silvain Wolfrat, Mick Bosman en Leander Kuiper
 
 Informatie Online versie:
 -
+De website is gemaakt voor de Iphone X, de website is niet responsive en werkt dus niet op anderen toesten of resoluties.
 De online versie is niet compleet. Je kan niks invullen in de <input> fields want deze werken niet. Klik op de inlog button zonder iets in te vullen om door te gaan naar de volgende pagina.
 
 -
@@ -18,7 +19,7 @@ De online versie is niet compleet. Je kan niks invullen in de <input> fields wan
 
 
 ---
-K-SEC fase1 planning:
+K-SEC fase 1 planning:
 
 Samenstelling groep:
 
@@ -35,21 +36,20 @@ Planning groep voor de komende week:
 Silvain:
 Begin ontwerpen style en kleuren schema en begin wireframe design.
 
-Mick en Leander: Log-in scherm beginnen.
+Mick: Login scherm voor bedrijven beginnen.
 
-Mack: Planning en rolverdeling.
+Mack: Planning, rolverdeling en maken logo voor SnelleChaps.
 
-Welke user cases gaan we uitwerken (individueel)
-Mick: Log-in.
+Leander: Alle user cases maken, Thread model en Use cases diagram. 
 
-Leander: Account aanmaken.
+Iedereen: Storyboard samen maken. (wordt volgende week uitgelegd)
 
-Silvain: Advertentie van restaurant of bezorger.
 
-Mack: Klant bestel informatie van de advertentie.
+---
+K-SEC fase 2 planning:
 
-Storyboard:
-Iedereen samen. (wordt volgende week uitgelegd)
+Silvain:
+
 
 
 
