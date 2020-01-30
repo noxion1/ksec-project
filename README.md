@@ -86,6 +86,7 @@ Leander: Coderen van de homepage.
 
 Iedereen: Feedback geven aan elkaar.
 
-------
-------
+---
+## Wat er is gedaan in de fase's
+---
 
